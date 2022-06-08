@@ -27,3 +27,15 @@ echo "IT (Income Tax) : $it"|tee cat >> emp.dat
 echo "Gross salary : $gross"|tee cat >> emp.dat
 echo "netsalary : $netsal"|tee cat >>emp.dat  
 
+
+Output
+--------
+
+
+Enter the EmployeeID (empno)
+1001
+Enter the Name of Employee
+fathima
+enter the basic salary:
+45000
+

@@ -11,3 +11,15 @@ do
 done
 echo "$n is a prime number."
 
+
+
+Output
+-------
+
+Enter Number : 6
+6 is not a prime number.
+
+
+Enter Number : 2
+2 is a prime number.
+

@@ -13,4 +13,18 @@ else
 fi
 
 
+Output
+--------
+
+
+---- EVEN OR ODD IN SHELL SCRIPT -----
+Enter a number:15
+RESULT: 15 is Odd
+
+
+
+---- EVEN OR ODD IN SHELL SCRIPT -----
+Enter a number:20
+RESULT: 20 is even
+
 
